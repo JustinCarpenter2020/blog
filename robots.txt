@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://JustinCarpenter2020.github.io/blogsitemap.xml
